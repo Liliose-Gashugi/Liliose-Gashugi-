@@ -24,7 +24,7 @@ I'm a software engineer passionate and keen about building scalable web applicat
 - Version control with Git
 
 📫 How to reach me
-- Email:gashugililose@gmail.com
+- Email:gashugililiose@gmail.com
 - Twitter: @GashugiLiliose
 - LinkedIn: Liliose GASHUGI Muhimpundu
 
