@@ -6,7 +6,7 @@ I'm a software engineer passionate and keen about building scalable web applicat
 
 🔭 I’m currently working on:
 - Developing and updating a travel agency web application
-- Building and updating a personal portfolio using React and Node.js
+- Building and updating a personal portfolio
 
 🌱Currently, I'm delving into:
 - Python
@@ -19,10 +19,12 @@ I'm a software engineer passionate and keen about building scalable web applicat
 - Hackathons and coding challenges
 
 💬Ask me about:
+- UI/UX Design
 - Frontend development
-- Backend development with PHP and Node.js
+- Backend development 
 - Version control with Git
-
+- Database Design
+  
 📫 How to reach me
 - Email:gashugililiose@gmail.com
 - Twitter: @GashugiLiliose
